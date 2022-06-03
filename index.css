@@ -1,0 +1,126 @@
+body{
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    font-weight: 1px;
+}
+
+.container{
+    background-color: black;
+    margin: auto;
+    width: 100%;
+    height: auto;
+    border-radius: 20px;
+}
+fieldset{
+    margin: 100px 10px;
+    border: 0px;
+}
+
+#welcome{
+    text-align: center;
+    margin-top: 0rem;
+    padding: 150px 0px 10px 0px;
+}
+
+.signin-text{
+    padding-top: 5px;
+}
+span{
+    padding-bottom: 10px;
+}
+
+.info{
+    border-bottom: 0.01rem solid whitesmoke;
+    border-right: 0rem;
+    border-top: 0rem;
+    border-left: 0rem;
+    background-color: black;
+    width:100%;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    padding-top: 15px;
+    padding-bottom: 8px;
+}
+
+#psw-container{
+    border-bottom: 0.01rem solid whitesmoke;
+    border-right: 0rem;
+    border-top: 0rem;
+    border-left: 0rem;
+    background-color: black;
+    width:inherit;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    padding-top: 5px;
+    padding-bottom: 8px;
+}
+
+#password{
+    border-bottom: 0rem;
+    border-right: 0rem;
+    border-top: 0rem;
+    border-left: 0rem;
+    background-color: black;
+    width:89%;
+    padding-top: 10px;
+}
+
+#eyeslash{
+    float: right;
+}
+
+#checkbox{
+    float: left;
+    
+}
+#forgot{
+    float: right;
+}
+
+#btn-container{
+    float: none;
+   
+    width: inherit;
+    padding: 10px;
+    display: flex;
+   
+}
+button{
+    width: 100%;
+    height: 45px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: none;
+    border: 0rem;
+    background-color: rgb(234, 28, 193);
+    color: aliceblue;
+    margin-bottom: 20px;
+}
+
+#icons{
+    width: inherit;
+    padding: 10px;
+    display: flex;
+    margin-bottom: 20px;
+    margin: 0 auto;
+    align-self: center;
+    padding-left: 40%;
+    padding-right: 20%;
+}
+
+.brands{
+    height:100px;
+    width: 20%;
+    align-self: center;
+}
+
+#new-user{
+    text-align: center;
+    margin-top: 30px;
+    padding-bottom: 50px;
+}
+#signUp{
+    color: rgb(234, 28, 193);
+}
+
